@@ -1,3 +1,5 @@
 # My first Github Pages Website
 
-You can access it by going to https://github.com/NuellaMichelle/Hello-World/new/main
+You can access it by going to https://NuellaMichelle.github.io/helloworld.
+
+
